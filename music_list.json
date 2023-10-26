@@ -1,0 +1,52 @@
+[
+    {
+        "Artist": "Frank Sinatra",
+        "SongTitle": "Fly Me To The Moon",
+        "Genre": "Jazz"
+    },
+    {
+        "Artist": "Jack Johnson",
+        "SongTitle": "Banana Pancakes",
+        "Genre": "Rock"
+    },
+    {
+        "Artist": "Luke Combs",
+        "SongTitle": "Hurricane",
+        "Genre": "Country"
+    },
+    {
+        "Artist": "The Strokes",
+        "SongTitle": "Last Night",
+        "Genre": "Rock"
+    },
+    {
+        "Artist": "The Strokes",
+        "SongTitle": "Someday",
+        "Genre": "Rock"
+    },
+    {
+        "Artist": "Peso Pluma",
+        "SongTitle": "Ella Baila Sola",
+        "Genre": "Spanish"
+    },
+    {
+        "Artist": "Zac Brown Band",
+        "SongTitle": "Island Song",
+        "Genre": "Country"
+    },
+    {
+        "Artist": "Zac Brown Band",
+        "SongTitle": "Whatever It Is",
+        "Genre": "Country"
+    },
+    {
+        "Artist": "Metallica",
+        "SongTitle": "Whiskey In The Jar",
+        "Genre": "Rock"
+    },
+    {
+        "Artist": "Slipknot",
+        "SongTitle": "Duality",
+        "Genre": "Rock"
+    }
+]
